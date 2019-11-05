@@ -2,7 +2,7 @@ Assignment 2
 This assignment is based on an assignment given in the Machine Learning and Pattern Recognition course in our university. The first exercise is supposed to test you on your ability to load and manipulate data in python. This is an absolutely crucial skill you need to have to work on any kind of machine learning project. The second exercise might be a bit hard depending on your background. Linear regression is a rather intuitive method that can be effectively used on its own for some problems or a as a baseline for more complex problems. You can use any kind of tutorials and materials online but please do not copy code from anywhere. The crucial part here is for you to actually understand how linear regression works so do not use ready made models but design the model yourself. You can however use an already made function for fitting the weights (np.linalg.lstsq())
 In terms of libraries use only numpy, any image processing library (eg mathplotlib) and any kind of library you want for loading the data. 
 
-The data will be available on our GitHub.
+The data is available for a week starting 5th of November under this link (the file is too big for GitHub so that is the easiest way to give it to you): https://we.tl/t-A4DZwgwady
 
 1.
 a) Plot a line graph showing the sequence in amp_data, and a histogram of the amplitudes in this sequence. Include these plots in your report, with one to three sentences about anything you notice that might be important for modelling these data.
